@@ -1,0 +1,13 @@
+{
+    "name": "ContactsBook",
+    "version": "0.0.1",
+    "main": "app.coffee",
+    "dependencies": {
+        "coffee-script": "latest",
+        "express": "latest",
+        "mongoose": "latest",
+        "body-parser": "latest",
+        "nconf": "latest",
+        "async": "latest"
+    }
+}
